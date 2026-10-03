@@ -1,36 +1,35 @@
-# JSON Toolkit
+# JSON Toolkit 🧰
 
-A fast, polished JSON utility that runs entirely in the browser.
+A fast, dependency-free JSON workspace for formatting, validating, transforming, and inspecting JSON directly in the browser.
 
-## Features
+## ✨ Features
 
-- Formatter
+- Pretty formatter
 - Minifier
-- Key sorter
 - Validator
-- JSON → YAML
-- Copy-friendly output
+- Key sorter
+- JSON → YAML conversion
 - Sample data
+- Copy-friendly output
 - Responsive developer UI
-- No backend required
 
-## Run locally
-
-Open `index.html` directly or serve the folder with any static web server.
+## 🚀 Run
 
 ```bash
 git clone https://github.com/feloony/json-toolkit.git
 cd json-toolkit
 ```
 
-## Privacy
+Open `index.html` or serve the folder with a static web server.
 
-JSON is processed locally in your browser. No server is required.
+## 🔒 Privacy
 
-## Contributing
+Processing happens locally in your browser. No backend is required.
 
-Fork the project, make your change, and open a pull request. New developer-focused transforms are welcome.
+## 🤝 Contributing
 
-## License
+New transforms, accessibility improvements, keyboard shortcuts, and UI enhancements are welcome.
 
-MIT
+## 📄 License
+
+MIT License.
